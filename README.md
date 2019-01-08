@@ -7,14 +7,21 @@ Swift 4 iOS app demonstrating use of Flickr Searcg API browse through a list of 
 Features
 
 Search through Flickr Gallery
+
 No Library used.
+
 Unit test cases written 
+
 Caching of images supported.
+
 Pagination supported
+
 Modular Programmigng
+
 Scalable Architecture
 
 Technical: swift 4, MVVM Architecture
+
 
 NOTE:
 If you want to change API Key then change in this file.
